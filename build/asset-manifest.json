@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React-app/static/css/main.5c21dd6a.css",
+    "main.js": "/React-app/static/js/main.d6b5b90e.js",
+    "static/media/img-10.jpg": "/React-app/static/media/img-10.314c8a24c5be8ab04e24.jpg",
+    "static/media/img-2.jpg": "/React-app/static/media/img-2.0e3e4be7713ba4883c77.jpg",
+    "static/media/img-5.jpg": "/React-app/static/media/img-5.9ac8e149fb9d7aeaa93b.jpg",
+    "static/media/pic-1.jpg": "/React-app/static/media/pic-1.544b6fe3a6cff7ab7075.jpg",
+    "static/media/img-6.png": "/React-app/static/media/img-6.1afdf657608c8d7a0787.png",
+    "static/media/img-1.jpg": "/React-app/static/media/img-1.a7da15f943ea7aed6535.jpg",
+    "static/media/img-3.jpg": "/React-app/static/media/img-3.d790e328c02927f0ca43.jpg",
+    "static/media/logo-1.png": "/React-app/static/media/logo-1.3f33073e382dffc226d2.png",
+    "index.html": "/React-app/index.html",
+    "main.5c21dd6a.css.map": "/React-app/static/css/main.5c21dd6a.css.map",
+    "main.d6b5b90e.js.map": "/React-app/static/js/main.d6b5b90e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c21dd6a.css",
+    "static/js/main.d6b5b90e.js"
+  ]
+}
